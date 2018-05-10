@@ -1,0 +1,47 @@
+html {
+  background: #F4F4F4;
+}
+.weui-cell:before {
+  left: 0;
+}
+.weui-btn_blue {
+  background-color: #26a2ff;
+}
+.weui-panel__hd {
+  padding: 0;
+}
+.weui-panel__hd:after {
+  left: 0;
+}
+.weui-media-box {
+  padding: 0;
+}
+.weui-media-box__info {
+  padding: 15px;
+  margin: 0
+}
+.my {
+  padding: 5px 15px;
+}
+.weui-cell:before {
+  content: none
+}
+.ward-bed:before {
+  content: " ";
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  height: 1px;
+  border-top: 1px solid #e5e5e5;
+  color: #e5e5e5;
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transform: scaleY(.5);
+  transform: scaleY(.5);
+  left: 0;
+  z-index: 2;
+}
+.goods .foods-wrapper {
+  background: #ffffff;
+}
